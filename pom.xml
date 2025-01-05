@@ -122,11 +122,11 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
+            <id>nexus</id>
             <url>http://127.0.1.1:8081/repository/demo_release/</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
+            <id>nexus</id>
             <url>http://127.0.1.1:8081/repository/demo_aplication/</url>
         </snapshotRepository>
     </distributionManagement>
