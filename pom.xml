@@ -23,7 +23,7 @@
     		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://127.0.1.1:9000</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>squ_b1a0be472aeb122d2f6bc132fcb4e3d05d2ab765</sonar.password>
+		<sonar.password>b1a0be472aeb122d2f6bc132fcb4e3d05d2ab765</sonar.password>
 		
 	</properties>
 
